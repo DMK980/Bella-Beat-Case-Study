@@ -7,7 +7,7 @@ Google Data Analytics Professional Certificate Capstone Project
 2. How could these trends apply to Bella beat customers?
 3. How could these trends help influence Bella beat marketing strategy?
 
-### Data Sets
+## Data Sets
 
 To answer these questions, a public kaggle data set of fit bit users will be used.
 The data set comprises of multiple csv files but after a close inspection of the 
@@ -43,7 +43,7 @@ aswell as the BMI
 ##### column names: 
 - Id, Date, WeightKg, WeightPounds, Fat, BMI, IsManualReport, LogId
 
-### Findings  
+## Findings  
 
 After analyzing the data and gaining some insight on trends, i can go back and 
 answer the business task questions confidently and with actionable insights 
