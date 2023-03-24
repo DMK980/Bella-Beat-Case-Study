@@ -1,6 +1,8 @@
 # Bella-Beat-Case-Study
 Google Data Analytics Professional Certificate Capstone Project
 
+### For a Full analysis you can find in analysis in the "Fitbit_Wellness-Report" files by choosing your preferred format
+
 ## Business Task 
 
 1. What are some trends in smart device usage?
